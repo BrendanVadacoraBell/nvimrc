@@ -3,6 +3,9 @@ This is my living Neovim setup. Mostly based on [ThePrimeagen's configuration](h
 
 ### Change Log
 
+#### 2024-02-17
+Install [VimBeGood](https://github.com/ThePrimeagen/vim-be-good) for training using vim motions.
+
 #### 2024-02-16
 Fix harpoon installation by following
 [the guide for harpoon 2](https://github.com/ThePrimeagen/harpoon/blob/harpoon2/README.md) and

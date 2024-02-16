@@ -7,5 +7,9 @@ return {
 
     "github/copilot.vim",
     "gpanders/editorconfig.nvim",
+    {
+        "ThePrimeagen/vim-be-good",
+        lazy = false,
+    },
 }
 
