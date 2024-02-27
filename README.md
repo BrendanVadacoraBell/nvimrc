@@ -3,6 +3,9 @@ This is my living Neovim setup. Mostly based on [ThePrimeagen's configuration](h
 
 ### Change Log
 
+#### 2024-02-27
+Setup markdown configuration for proper line wrapping, which is in preparation for proper usage of [Obsidian](https://github.com/epwalsh/obsidian.nvim).
+
 #### 2024-02-17
 Install [VimBeGood](https://github.com/ThePrimeagen/vim-be-good) for training using vim motions.
 
