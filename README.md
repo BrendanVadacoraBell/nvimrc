@@ -3,6 +3,9 @@ This is my living Neovim setup. Mostly based on [ThePrimeagen's configuration](h
 
 ### Change Log
 
+#### 2024-03-07
+Add a shortcut for creating a new Obsidian doc
+
 #### 2024-02-27
 Setup markdown configuration for proper line wrapping, which is in preparation for proper usage of [Obsidian](https://github.com/epwalsh/obsidian.nvim).
 

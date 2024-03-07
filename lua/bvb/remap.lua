@@ -55,3 +55,5 @@ vim.keymap.set("n", "<leader><leader>", function()
     vim.cmd("so")
 end)
 
+-- obsidian common commands
+vim.keymap.set("n", "<leader>bn", function() return ":ObsidianNew " .. vim.fn.expand "%:t" end, { expr = true })
