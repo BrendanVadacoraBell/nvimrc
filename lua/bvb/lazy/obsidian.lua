@@ -10,7 +10,7 @@ return {
     workspaces = {
       {
         name = "zettelkasten",
-        path = "~/Documents/zettelkasten",
+        path = "~/projects/zettelkasten",
       },
     },
   },
