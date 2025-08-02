@@ -3,6 +3,9 @@ This is my living Neovim setup. Mostly based on [ThePrimeagen's configuration](h
 
 ### Change Log
 
+#### 2025-08-02
+- Remove 100 column editor wall for markdown
+
 #### 2024-04-22
 - Add nvim-nio as a dependency for neotest.
 - Add zls and htmx as languages for mason for zig and htmx implementation.
