@@ -3,6 +3,9 @@ This is my living Neovim setup. Mostly based on [ThePrimeagen's configuration](h
 
 ### Change Log
 
+#### 2025-08-20
+- Add ripgrep to file finding function to include search for select hidden files.
+
 #### 2025-08-02
 - Remove 100 column editor wall for markdown
 
